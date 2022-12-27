@@ -32,6 +32,6 @@ In this competition your task is to predict whether a passenger was transported 
 
 ### Results 
 
-* `Model`: Sklearn Gradient Boosting Classifier
-* `Test Accuracy`: 80.62 % 
+* `Model`: XGBoost Classifier
+* `Test Accuracy`: 80.69 % 
 
